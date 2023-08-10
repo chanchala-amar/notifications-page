@@ -1,0 +1,95 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "name": "Mark Webber",
+      "type": "reacted",
+      "imgName": "avatar-mark-webber.webp",
+      "reactedTo": "My first tournament today!",
+      "groupName": "",
+      "commentPicture": "",
+      "timestampNumber": "1",
+      "timestampUnit": "m",
+      "messageText": "",
+      "read": false
+    },
+    {
+      "id": 2,
+      "name": "Angela Gray",
+      "type": "followed",
+      "imgName": "avatar-angela-gray.webp",
+      "reactedTo": "",
+      "groupName": "",
+      "commentPicture": "image-chess.webp",
+      "timestampNumber": "3",
+      "timestampUnit": "days",
+      "messageText": "",
+      "read": false
+    },
+    {
+      "id": 3,
+      "name": "Jacob Thompson",
+      "type": "joined",
+      "imgName": "avatar-jacob-thompson.webp",
+      "reactedTo": "",
+      "groupName": "Chess Club",
+      "commentPicture": "",
+      "timestampNumber": "1",
+      "timestampUnit": "day",
+      "messageText": "",
+      "read": false
+    },
+    {
+      "id": 5,
+      "name": "Rizky Hasanuddin",
+      "type": "messaged",
+      "imgName": "avatar-rizky-hasanuddin.webp",
+      "reactedTo": "",
+      "groupName": "",
+      "commentPicture": "",
+      "timestampNumber": "5",
+      "timestampUnit": "days",
+      "messageText": "Hello, thanks for setting up Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and imporving my game.",
+      "read": true
+    },
+    {
+      "id": 6,
+      "name": "Kimberly Smith",
+      "type": "commented",
+      "imgName": "avatar-kimberly-smith.webp",
+      "reactedTo": "",
+      "groupName": "",
+      "commentPicture": "image-chess.webp",
+      "timestampNumber": "1",
+      "timestampUnit": "week",
+      "messageText": "",
+      "read": true
+    },
+    {
+      "id": 7,
+      "name": "Nathan Peterson",
+      "type": "reacted",
+      "imgName": "avatar-nathan-peterson.webp",
+      "reactedTo": "5 end-game strategies to increase your win rate",
+      "groupName": "",
+      "commentPicture": "",
+      "timestampNumber": "2",
+      "timestampUnit": "week",
+      "messageText": "",
+      "read": true
+    },
+    {
+      "id": 8,
+      "name": "Anna Kim",
+      "type": "left",
+      "imgName": "avatar-anna-kim.webp",
+      "reactedTo": "",
+      "groupName": "Chess Club",
+      "commentPicture": "",
+      "timestampNumber": "2",
+      "timestampUnit": "week",
+      "messageText": "",
+      "read": true
+    }
+  ]
+}

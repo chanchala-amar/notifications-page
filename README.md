@@ -24,12 +24,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -39,8 +33,6 @@ www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -55,12 +47,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![./screenshot.png]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/chanchala-amar/notifications-page]
+- Live Site URL: [https://chanchala-amar.github.io/notifications-page/]
 
 ## My process
 
@@ -72,16 +64,8 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [Vue](https://vuejs.org/) - JS library
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- Vuex store
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
