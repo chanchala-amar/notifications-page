@@ -47,7 +47,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./screenshot.png]
+![](./screenshot.png)
 
 ### Links
 
@@ -68,4 +68,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/chanchala-amar]
